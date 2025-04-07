@@ -9,6 +9,8 @@ dist/
 web-build/
 expo-env.d.ts
 
+secret.ts
+
 # Native
 *.orig.*
 *.jks
@@ -34,3 +36,4 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+node_modules/
